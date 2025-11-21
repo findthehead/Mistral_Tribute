@@ -12,7 +12,7 @@ Mistral is very generous with their free API so here you can use it too with Mis
 ```python
 cd Mistral_Tribute
 #Create an API key and place it to .env file
-pip install -r requrements.txt
+pip install -r requirements.txt
 python3 mistral_cli.py
 ```
 ----
@@ -21,7 +21,7 @@ python3 mistral_cli.py
 ```python
 cd Mistral_Tribute
 #Create an API key and place it to .env file
-pip install -r GUI_requrements.txt
+pip install -r GUI_requirements.txt
 python3 mistral_gui.py
 ```
 
