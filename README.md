@@ -22,7 +22,7 @@ python3 mistral_cli.py
 cd Mistral_Tribute
 #Create an API key and place it to .env file
 pip install -r GUI_requirements.txt
-python3 mistral_gui.py
+streamlit run mistral_gui.py
 ```
 
 ----
